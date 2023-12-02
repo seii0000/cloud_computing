@@ -62,3 +62,5 @@ if (isset($_SESSION['r_user_id']) &&
 } 
 
 ?>
+
+// test thử xem có đổi ko
